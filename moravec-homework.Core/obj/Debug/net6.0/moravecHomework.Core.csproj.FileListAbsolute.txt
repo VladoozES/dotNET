@@ -1,0 +1,5 @@
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravecHomework.Core.csproj.AssemblyReference.cache
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravecHomework.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravecHomework.Core.AssemblyInfoInputs.cache
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravecHomework.Core.AssemblyInfo.cs
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravecHomework.Core.csproj.CoreCompileInputs.cache

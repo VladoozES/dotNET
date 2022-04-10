@@ -1,0 +1,12 @@
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravec_homework.Core.csproj.AssemblyReference.cache
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravec_homework.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravec_homework.Core.AssemblyInfoInputs.cache
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravec_homework.Core.AssemblyInfo.cs
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravec_homework.Core.csproj.CoreCompileInputs.cache
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\bin\Debug\net6.0\moravec_homework.Core.deps.json
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\bin\Debug\net6.0\moravec_homework.Core.dll
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\bin\Debug\net6.0\moravec_homework.Core.pdb
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravec_homework.Core.dll
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\refint\moravec_homework.Core.dll
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\moravec_homework.Core.pdb
+C:\My_Files\Programms\moravec-homework\moravec-homework.Core\obj\Debug\net6.0\ref\moravec_homework.Core.dll

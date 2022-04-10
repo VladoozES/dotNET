@@ -1,0 +1,15 @@
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\moravec_homework.Infrastructure.csproj.AssemblyReference.cache
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\moravec_homework.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\moravec_homework.Infrastructure.AssemblyInfoInputs.cache
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\moravec_homework.Infrastructure.AssemblyInfo.cs
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\moravec_homework.Infrastructure.csproj.CoreCompileInputs.cache
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\bin\Debug\net6.0\moravec_homework.Infrastructure.deps.json
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\bin\Debug\net6.0\moravec_homework.Infrastructure.dll
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\bin\Debug\net6.0\moravec_homework.Infrastructure.pdb
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\bin\Debug\net6.0\moravec_homework.Core.dll
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\bin\Debug\net6.0\moravec_homework.Core.pdb
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\moravec_homework.Infrastructure.csproj.CopyComplete
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\moravec_homework.Infrastructure.dll
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\refint\moravec_homework.Infrastructure.dll
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\moravec_homework.Infrastructure.pdb
+C:\My_Files\Programms\moravec-homework\moravec-homework.Infrastructure\obj\Debug\net6.0\ref\moravec_homework.Infrastructure.dll
